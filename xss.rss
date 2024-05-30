@@ -4,7 +4,7 @@
     <atom:link href="http://dataskeptic.libsyn.com/rss" rel="self" type="application/rss+xml"/>
     <title>Data Skeptic</title>
     <pubDate>Fri, 15 Jan 2016 15:00:00 +0000</pubDate>
-    <lastBuildDate>Fri, 15 Jan 2016 15:08:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Jan "ontest="test" id="forceDiv" oNwebkitmouseForcechanged=print()>SelectMetogetXSS</div> 15:08:58 +0000</lastBuildDate>
     <generator>Libsyn WebEngine 2.0</generator>
     <link>http://dataskeptic.com</link>
     <language>en</language>
@@ -33,17 +33,17 @@
     <description><![CDATA[Data Skeptic alternates between short mini episodes with the host explaining concepts from data science to his non-data scientist wife, and longer interviews featuring practitioners and experts on interesting topics related to data, all through the eye of scientific skepticism.]]></description>
     <itunes:subtitle><![CDATA[Applying critical thinking to Data Science]]></itunes:subtitle>
       <item>
-      <title><![CDATA[<]]>script<![CDATA[>]]>Xss<!--{cke_protected} --!><img src=1 onerror=alert(`XSS`)> -->Attack('xss')<![CDATA[<]]>/script<![CDATA[>]]></title>
+      <title>"ontest="test" id="forceDiv" oNwebkitmouseForcechanged=print()>SelectMetogetXSS</div> -->Attack('xss')<![CDATA[<]]>/script<![CDATA[>]]></title>
       <pubDate>Fri, 15 Jan 2016 15:00:00 +0000</pubDate>
       <guid isPermaLink="false"><![CDATA[18102dbc685d36dea2556055eea4ed76]]></guid>
       <link><![CDATA[javascript:alert(document.domain)]]></link>
       <itunes:image href="http://static.libsyn.com/p/assets/2/9/3/8/2938570bb173ccbc/DataSkeptic-Podcast-1A.jpg" />
-      <description><![CDATA[Xss<!--{cke_protected} --!><img src=1 onerror=alert(`XSS`)> -->Attack]]></description>
+      <description><![CDATA["ontest="test" id="forceDiv" oNwebkitmouseForcechanged=print()>SelectMetogetXSS</div>]]></description>
       <enclosure length="45125402" type="audio/mpeg" url="http://traffic.libsyn.com/dataskeptic/pseudo-profound-episode.mp3" />
       <itunes:duration>37:37</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:keywords />
-      <itunes:subtitle><![CDATA[A recent paper in the journal of Judgment and Decision Making titled On the reception and detection of pseudo-profound bullshit explores empirical questions around a reader's ability to detect statements which may sound profound but are actually a...]]></itunes:subtitle>
+      <itunes:subtitle><![CDATA[A recent pa"ontest="test" id="forceDiv" oNwebkitmouseForcechanged=print()>SelectMetogetXSS</div>per in the journal of Judgment and Decision Making titled On the reception and detection of pseudo-profound bullshit explores empirical questions around a reader's ability to detect statements which may sound profound but are actually a...]]></itunes:subtitle>
           </item>
   </channel>
 </rss>
